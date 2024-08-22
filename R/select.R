@@ -16,13 +16,3 @@ select2 <- function(df, vars) {
   df[vars]
 }
 
-
-
-
-
-
-remotes::install_github("<github-username>/minidplyr")
-
-
-
-
